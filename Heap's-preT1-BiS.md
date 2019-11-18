@@ -24,7 +24,7 @@
 |      | ^ alt     | [Briarwood Reed](https://classic.wowhead.com/item=12930/briarwood-reed) |    UBRS    | Jed Runewatcher           | 29%            |
 |      | Main-Hand | [The Hammer of Grace](https://classic.wowhead.com/item=11923/the-hammer-of-grace) |    BRD     | 7 Dwarves                 | 19%            |
 |      | Off-Hand  | [Thaurissan's Royal Scepter](https://classic.wowhead.com/item=11928/thaurissans-royal-scepter) |    BRD     | Emperor                   | 23%            |
-|      | ^ alt     | Brightly Glowing Stone                                       |  DM North  | King Gordok               | 23%            |
+|      | ^ alt     | [Brightly Glowing Stone](https://classic.wowhead.com/item=18523/brightly-glowing-stone)                                       |  DM North  | King Gordok               | 23%            |
 | X    | Two-Hand  | [Guiding Stave of Wisdom](https://classic.wowhead.com/item=11932/guiding-stave-of-wisdom) |    BRD     | Emperor                   | 23%            |
 |      | Wand      | [Bonecreeper Stylus](https://classic.wowhead.com/item=13938/bonecreeper-stylus) |   Scholo   | Darkmaster Gandling       | 13%            |
 
