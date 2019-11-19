@@ -1,4 +1,4 @@
-### Heap's Holy Priest pre-Tier 1 Best in Slot list
+### Heap's Holy Priest (Phase 1.5) pre-Tier 1 Best in Slot list
 
 |      | Slot      | Name                                                         | Location | NPC                       | Drop Rate      |
 | ---- | --------- | ------------------------------------------------------------ | :------: | ------------------------- | -------------- |
