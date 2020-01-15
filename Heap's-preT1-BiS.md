@@ -4,7 +4,7 @@
 | ---- | --------- | ------------------------------------------------------------ | :------: | ------------------------- | -------------- |
 |      | Head      | [Crown of the Ogre King](https://classic.wowhead.com/item=18526/crown-of-the-ogre-king) | DM North | King Gordok               | 23%            |
 |      | ^ alt     | [Starfire Tiara](https://classic.wowhead.com/item=12604/starfire-tiara) |   UBRS   | Jed Runewatcher           | 33%            |
-|      | ^ alt     | [Crimson Felt Hat](https://classic.wowhead.com/item=18727/crimson-felt-hat) | Strat UD | Magistrate Barthilas      | 16%            |
+|   X  | ^ alt     | [Crimson Felt Hat](https://classic.wowhead.com/item=18727/crimson-felt-hat) | Strat UD | Magistrate Barthilas      | 16%            |
 |      | Neck      | [Animated Chain Necklace](https://classic.wowhead.com/item=18723/animated-chain-necklace) | Strat UD | Ramstein the Gorger       | 12%            |
 | X    | Shoulder  | [Burial Shawl](https://classic.wowhead.com/item=18681/burial-shawl) |  Scholo  | Minibosses                | 10% 1x, ~2% 5x |
 |     | Cape      | [Hide of the Wild](https://classic.wowhead.com/item=18510/hide-of-the-wild) |    -     | Crafted                   | -              |
