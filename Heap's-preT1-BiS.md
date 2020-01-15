@@ -1,4 +1,4 @@
-### Heap's Holy Priest (Phase 1.5) pre-Tier 1 Best in Slot list
+### Bene's Holy Priest (Phase 2) pre-Best in Slot list
 
 |      | Slot      | Name                                                         | Location | NPC                       | Drop Rate      |
 | ---- | --------- | ------------------------------------------------------------ | :------: | ------------------------- | -------------- |
@@ -14,8 +14,8 @@
 |      | Gloves    | [Hands of the Exalted Herald](https://classic.wowhead.com/item=12554/hands-of-the-exalted-herald) |   BRD    | Princess Moira            | 22%            |
 |      | Belt      | [Whipvine Cord](https://classic.wowhead.com/item=18327/whipvine-cord) | DM East  | Alzzin the Wildshaper     | 19%            |
 |     | ^ alt     | [Thuzadin Sash](https://classic.wowhead.com/item=18740/thuzadin-sash) | Strat UD | Nerub'enkan               | 18%            |
-|      | Legs      | [Padre's Trousers](https://classic.wowhead.com/item=18386/padres-trousers) | DM West  | Illyanna Ravenoak         | 23%            |
-|      | Shoes     | [Boots of the Full Moon](https://classic.wowhead.com/item=18507/boots-of-the-full-moon) | DM North | Captain Kromcrush         | 24%            |
+|   Alt  | Legs      | [Padre's Trousers](https://classic.wowhead.com/item=18386/padres-trousers) | DM West  | Illyanna Ravenoak         | 23%            |
+|   Alt | Shoes     | [Boots of the Full Moon](https://classic.wowhead.com/item=18507/boots-of-the-full-moon) | DM North | Captain Kromcrush         | 24%            |
 |      | Ring1     | [Rosewine Circle](https://classic.wowhead.com/item=13178/rosewine-circle) |   LBRS   | War Master Voone          | 15%            |
 |      | ^ alt     | [Emerald Flame Ring](https://classic.wowhead.com/item=18395/emerald-flame-ring) | DM West  | Prince Tortheldrin        | 24%            |
 |      | ^ alt     | [Mark of the Dragon Lord](https://classic.wowhead.com/item=13143/mark-of-the-dragon-lord) |   UBRS   | Overlord Wyrmthalak       | 3%             |
