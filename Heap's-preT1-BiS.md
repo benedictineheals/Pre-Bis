@@ -8,12 +8,12 @@
 |      | Neck      | [Animated Chain Necklace](https://classic.wowhead.com/item=18723/animated-chain-necklace) | Strat UD | Ramstein the Gorger       | 12%            |
 | X    | Shoulder  | [Burial Shawl](https://classic.wowhead.com/item=18681/burial-shawl) |  Scholo  | Minibosses                | 10% 1x, ~2% 5x |
 |     | Cape      | [Hide of the Wild](https://classic.wowhead.com/item=18510/hide-of-the-wild) |    -     | Crafted                   | -              |
-|      | Robe      | [Robes of the Exalted](https://classic.wowhead.com/item=13346/robes-of-the-exalted) | Strat UD | Baron Rivendare           | 14%            |
+|   X  | Robe      | [Robes of the Exalted](https://classic.wowhead.com/item=13346/robes-of-the-exalted) | Strat UD | Baron Rivendare           | 14%            |
 |      | Cuffs     | [Sublime Wristguards](https://classic.wowhead.com/item=18497/sublime-wristguards) | DM North | Guards Mol'dar & Slip'kik | 6%             |
 |     | ^ alt     | [Flameweave Cuffs of Healing](https://classic.wowhead.com/item=11766/flameweave-cuffs) |   BRD    | Lord Incendius            | 6% of 12%      |
-|      | Gloves    | [Hands of the Exalted Herald](https://classic.wowhead.com/item=12554/hands-of-the-exalted-herald) |   BRD    | Princess Moira            | 22%            |
+|   X | Gloves    | [Hands of the Exalted Herald](https://classic.wowhead.com/item=12554/hands-of-the-exalted-herald) |   BRD    | Princess Moira            | 22%            |
 |      | Belt      | [Whipvine Cord](https://classic.wowhead.com/item=18327/whipvine-cord) | DM East  | Alzzin the Wildshaper     | 19%            |
-|     | ^ alt     | [Thuzadin Sash](https://classic.wowhead.com/item=18740/thuzadin-sash) | Strat UD | Nerub'enkan               | 18%            |
+|   X  | ^ alt     | [Thuzadin Sash](https://classic.wowhead.com/item=18740/thuzadin-sash) | Strat UD | Nerub'enkan               | 18%            |
 |   Alt  | Legs      | [Padre's Trousers](https://classic.wowhead.com/item=18386/padres-trousers) | DM West  | Illyanna Ravenoak         | 23%            |
 |   Alt | Shoes     | [Boots of the Full Moon](https://classic.wowhead.com/item=18507/boots-of-the-full-moon) | DM North | Captain Kromcrush         | 24%            |
 |      | Ring1     | [Rosewine Circle](https://classic.wowhead.com/item=13178/rosewine-circle) |   LBRS   | War Master Voone          | 15%            |
